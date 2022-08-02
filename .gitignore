@@ -1,4 +1,8 @@
 # Environments
 venv/
 
+# Editors
+.vscode/
+.idea/
+
 /vacancies.csv
